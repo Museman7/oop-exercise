@@ -1,0 +1,15 @@
+C:\Users\musem\Documents\University\OOP\oop-exercise\casting\obj\Debug\net8.0\casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musem\Documents\University\OOP\oop-exercise\casting\obj\Debug\net8.0\casting.AssemblyInfoInputs.cache
+C:\Users\musem\Documents\University\OOP\oop-exercise\casting\obj\Debug\net8.0\casting.AssemblyInfo.cs
+C:\Users\musem\Documents\University\OOP\oop-exercise\casting\obj\Debug\net8.0\casting.csproj.CoreCompileInputs.cache
+C:\Users\musem\Documents\University\OOP\oop-exercise\casting\obj\Debug\net8.0\casting.sourcelink.json
+C:\Users\musem\Documents\University\OOP\oop-exercise\casting\bin\Debug\net8.0\casting.exe
+C:\Users\musem\Documents\University\OOP\oop-exercise\casting\bin\Debug\net8.0\casting.deps.json
+C:\Users\musem\Documents\University\OOP\oop-exercise\casting\bin\Debug\net8.0\casting.runtimeconfig.json
+C:\Users\musem\Documents\University\OOP\oop-exercise\casting\bin\Debug\net8.0\casting.dll
+C:\Users\musem\Documents\University\OOP\oop-exercise\casting\bin\Debug\net8.0\casting.pdb
+C:\Users\musem\Documents\University\OOP\oop-exercise\casting\obj\Debug\net8.0\casting.dll
+C:\Users\musem\Documents\University\OOP\oop-exercise\casting\obj\Debug\net8.0\refint\casting.dll
+C:\Users\musem\Documents\University\OOP\oop-exercise\casting\obj\Debug\net8.0\casting.pdb
+C:\Users\musem\Documents\University\OOP\oop-exercise\casting\obj\Debug\net8.0\casting.genruntimeconfig.cache
+C:\Users\musem\Documents\University\OOP\oop-exercise\casting\obj\Debug\net8.0\ref\casting.dll
