@@ -1,0 +1,15 @@
+C:\Users\musem\Documents\University\OOP\oop-exercise\Addition\obj\Debug\net8.0\Addition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musem\Documents\University\OOP\oop-exercise\Addition\obj\Debug\net8.0\Addition.AssemblyInfoInputs.cache
+C:\Users\musem\Documents\University\OOP\oop-exercise\Addition\obj\Debug\net8.0\Addition.AssemblyInfo.cs
+C:\Users\musem\Documents\University\OOP\oop-exercise\Addition\obj\Debug\net8.0\Addition.csproj.CoreCompileInputs.cache
+C:\Users\musem\Documents\University\OOP\oop-exercise\Addition\obj\Debug\net8.0\Addition.sourcelink.json
+C:\Users\musem\Documents\University\OOP\oop-exercise\Addition\bin\Debug\net8.0\Addition.exe
+C:\Users\musem\Documents\University\OOP\oop-exercise\Addition\bin\Debug\net8.0\Addition.deps.json
+C:\Users\musem\Documents\University\OOP\oop-exercise\Addition\bin\Debug\net8.0\Addition.runtimeconfig.json
+C:\Users\musem\Documents\University\OOP\oop-exercise\Addition\bin\Debug\net8.0\Addition.dll
+C:\Users\musem\Documents\University\OOP\oop-exercise\Addition\bin\Debug\net8.0\Addition.pdb
+C:\Users\musem\Documents\University\OOP\oop-exercise\Addition\obj\Debug\net8.0\Addition.dll
+C:\Users\musem\Documents\University\OOP\oop-exercise\Addition\obj\Debug\net8.0\refint\Addition.dll
+C:\Users\musem\Documents\University\OOP\oop-exercise\Addition\obj\Debug\net8.0\Addition.pdb
+C:\Users\musem\Documents\University\OOP\oop-exercise\Addition\obj\Debug\net8.0\Addition.genruntimeconfig.cache
+C:\Users\musem\Documents\University\OOP\oop-exercise\Addition\obj\Debug\net8.0\ref\Addition.dll
