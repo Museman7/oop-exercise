@@ -1,0 +1,15 @@
+C:\Users\musem\Documents\University\OOP\oop-exercise\Sudoku\obj\Debug\net8.0\Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musem\Documents\University\OOP\oop-exercise\Sudoku\obj\Debug\net8.0\Sudoku.AssemblyInfoInputs.cache
+C:\Users\musem\Documents\University\OOP\oop-exercise\Sudoku\obj\Debug\net8.0\Sudoku.AssemblyInfo.cs
+C:\Users\musem\Documents\University\OOP\oop-exercise\Sudoku\obj\Debug\net8.0\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\musem\Documents\University\OOP\oop-exercise\Sudoku\obj\Debug\net8.0\Sudoku.sourcelink.json
+C:\Users\musem\Documents\University\OOP\oop-exercise\Sudoku\bin\Debug\net8.0\Sudoku.exe
+C:\Users\musem\Documents\University\OOP\oop-exercise\Sudoku\bin\Debug\net8.0\Sudoku.deps.json
+C:\Users\musem\Documents\University\OOP\oop-exercise\Sudoku\bin\Debug\net8.0\Sudoku.runtimeconfig.json
+C:\Users\musem\Documents\University\OOP\oop-exercise\Sudoku\bin\Debug\net8.0\Sudoku.dll
+C:\Users\musem\Documents\University\OOP\oop-exercise\Sudoku\bin\Debug\net8.0\Sudoku.pdb
+C:\Users\musem\Documents\University\OOP\oop-exercise\Sudoku\obj\Debug\net8.0\Sudoku.dll
+C:\Users\musem\Documents\University\OOP\oop-exercise\Sudoku\obj\Debug\net8.0\refint\Sudoku.dll
+C:\Users\musem\Documents\University\OOP\oop-exercise\Sudoku\obj\Debug\net8.0\Sudoku.pdb
+C:\Users\musem\Documents\University\OOP\oop-exercise\Sudoku\obj\Debug\net8.0\Sudoku.genruntimeconfig.cache
+C:\Users\musem\Documents\University\OOP\oop-exercise\Sudoku\obj\Debug\net8.0\ref\Sudoku.dll
