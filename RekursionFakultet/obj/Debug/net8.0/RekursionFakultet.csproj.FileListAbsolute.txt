@@ -1,0 +1,15 @@
+C:\Users\musem\Documents\University\OOP\oop-exercise\RekursionFakultet\obj\Debug\net8.0\RekursionFakultet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musem\Documents\University\OOP\oop-exercise\RekursionFakultet\obj\Debug\net8.0\RekursionFakultet.AssemblyInfoInputs.cache
+C:\Users\musem\Documents\University\OOP\oop-exercise\RekursionFakultet\obj\Debug\net8.0\RekursionFakultet.AssemblyInfo.cs
+C:\Users\musem\Documents\University\OOP\oop-exercise\RekursionFakultet\obj\Debug\net8.0\RekursionFakultet.csproj.CoreCompileInputs.cache
+C:\Users\musem\Documents\University\OOP\oop-exercise\RekursionFakultet\obj\Debug\net8.0\RekursionFakultet.sourcelink.json
+C:\Users\musem\Documents\University\OOP\oop-exercise\RekursionFakultet\bin\Debug\net8.0\RekursionFakultet.exe
+C:\Users\musem\Documents\University\OOP\oop-exercise\RekursionFakultet\bin\Debug\net8.0\RekursionFakultet.deps.json
+C:\Users\musem\Documents\University\OOP\oop-exercise\RekursionFakultet\bin\Debug\net8.0\RekursionFakultet.runtimeconfig.json
+C:\Users\musem\Documents\University\OOP\oop-exercise\RekursionFakultet\bin\Debug\net8.0\RekursionFakultet.dll
+C:\Users\musem\Documents\University\OOP\oop-exercise\RekursionFakultet\bin\Debug\net8.0\RekursionFakultet.pdb
+C:\Users\musem\Documents\University\OOP\oop-exercise\RekursionFakultet\obj\Debug\net8.0\RekursionFakultet.dll
+C:\Users\musem\Documents\University\OOP\oop-exercise\RekursionFakultet\obj\Debug\net8.0\refint\RekursionFakultet.dll
+C:\Users\musem\Documents\University\OOP\oop-exercise\RekursionFakultet\obj\Debug\net8.0\RekursionFakultet.pdb
+C:\Users\musem\Documents\University\OOP\oop-exercise\RekursionFakultet\obj\Debug\net8.0\RekursionFakultet.genruntimeconfig.cache
+C:\Users\musem\Documents\University\OOP\oop-exercise\RekursionFakultet\obj\Debug\net8.0\ref\RekursionFakultet.dll
