@@ -6,3 +6,4 @@ Console.WriteLine(Im.GetName());
 Console.WriteLine(Im.GetPrice());
 
 Console.WriteLine(FIm.GetDate());
+Console.WriteLine(FIm.GetName());

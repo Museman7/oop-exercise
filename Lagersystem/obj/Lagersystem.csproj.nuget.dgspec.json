@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\musem\\Documents\\oop-exercise\\Lagersystem\\Lagersystem.csproj": {}
+    "C:\\Users\\musem\\Documents\\oop-exercise\\lagersystem\\Lagersystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\musem\\Documents\\oop-exercise\\Lagersystem\\Lagersystem.csproj": {
+    "C:\\Users\\musem\\Documents\\oop-exercise\\lagersystem\\Lagersystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musem\\Documents\\oop-exercise\\Lagersystem\\Lagersystem.csproj",
+        "projectUniqueName": "C:\\Users\\musem\\Documents\\oop-exercise\\lagersystem\\Lagersystem.csproj",
         "projectName": "Lagersystem",
-        "projectPath": "C:\\Users\\musem\\Documents\\oop-exercise\\Lagersystem\\Lagersystem.csproj",
+        "projectPath": "C:\\Users\\musem\\Documents\\oop-exercise\\lagersystem\\Lagersystem.csproj",
         "packagesPath": "C:\\Users\\musem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musem\\Documents\\oop-exercise\\Lagersystem\\obj\\",
+        "outputPath": "C:\\Users\\musem\\Documents\\oop-exercise\\lagersystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\musem\\AppData\\Roaming\\NuGet\\NuGet.Config"
