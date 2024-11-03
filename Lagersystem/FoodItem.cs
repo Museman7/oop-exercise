@@ -3,16 +3,24 @@
 public class FoodItem : Item
 {
 	//Tilføjer en ny værdi som er en dato
-	double date = 4;
+	double DateTime = 4;
 	
 	public double GetDate()
 	{
-		return date;
+		return DateTime;
 	}
+	
 	//Vi laver et konstruktor ud fra FoodItem klassen...
 	//...Semikolon betyder vi henter værdier fra vores base class som er item
-	public FoodItem(string name, double price, double date) : base(name, price)
+	public FoodItem(string name, double price, double DateTime) : base(name, price)
 	{
-		this.date = date;
+		this.DateTime = DateTime;
+	}
+	
+	public override string ToString()
+	{
+		return "FoodItem name= '" + GetName() + "'"
+					+ " price= '" + GetPrice() + "'"
+					+ " expiresAt= '" + GetDate() + "' days.";
 	}
 }
