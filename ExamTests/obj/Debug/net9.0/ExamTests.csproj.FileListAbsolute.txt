@@ -1,0 +1,15 @@
+C:\Users\musem\Documents\github\oop-exercise\ExamTests\bin\Debug\net9.0\ExamTests.exe
+C:\Users\musem\Documents\github\oop-exercise\ExamTests\bin\Debug\net9.0\ExamTests.deps.json
+C:\Users\musem\Documents\github\oop-exercise\ExamTests\bin\Debug\net9.0\ExamTests.runtimeconfig.json
+C:\Users\musem\Documents\github\oop-exercise\ExamTests\bin\Debug\net9.0\ExamTests.dll
+C:\Users\musem\Documents\github\oop-exercise\ExamTests\bin\Debug\net9.0\ExamTests.pdb
+C:\Users\musem\Documents\github\oop-exercise\ExamTests\obj\Debug\net9.0\ExamTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musem\Documents\github\oop-exercise\ExamTests\obj\Debug\net9.0\ExamTests.AssemblyInfoInputs.cache
+C:\Users\musem\Documents\github\oop-exercise\ExamTests\obj\Debug\net9.0\ExamTests.AssemblyInfo.cs
+C:\Users\musem\Documents\github\oop-exercise\ExamTests\obj\Debug\net9.0\ExamTests.csproj.CoreCompileInputs.cache
+C:\Users\musem\Documents\github\oop-exercise\ExamTests\obj\Debug\net9.0\ExamTests.sourcelink.json
+C:\Users\musem\Documents\github\oop-exercise\ExamTests\obj\Debug\net9.0\ExamTests.dll
+C:\Users\musem\Documents\github\oop-exercise\ExamTests\obj\Debug\net9.0\refint\ExamTests.dll
+C:\Users\musem\Documents\github\oop-exercise\ExamTests\obj\Debug\net9.0\ExamTests.pdb
+C:\Users\musem\Documents\github\oop-exercise\ExamTests\obj\Debug\net9.0\ExamTests.genruntimeconfig.cache
+C:\Users\musem\Documents\github\oop-exercise\ExamTests\obj\Debug\net9.0\ref\ExamTests.dll
