@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RekursionFakultet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d87a76c7aa172eb4518ce356b26772f324e2c4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cb0945255f14a8ea9558f350586012c24f8f52f")]
 [assembly: System.Reflection.AssemblyProductAttribute("RekursionFakultet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RekursionFakultet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

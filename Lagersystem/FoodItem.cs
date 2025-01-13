@@ -3,7 +3,7 @@
 public class FoodItem : Item
 {
 	//Tilføjer en ny værdi som er en dato
-	double DateTime = 4;
+	double DateTime;
 	
 	public double GetDate()
 	{

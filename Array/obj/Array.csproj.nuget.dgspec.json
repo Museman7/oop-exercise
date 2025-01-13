@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\musem\\Documents\\University\\OOP\\oop-exercise\\Array\\Array.csproj": {}
+    "C:\\Users\\musem\\Documents\\github\\oop-exercise\\Array\\Array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\musem\\Documents\\University\\OOP\\oop-exercise\\Array\\Array.csproj": {
+    "C:\\Users\\musem\\Documents\\github\\oop-exercise\\Array\\Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musem\\Documents\\University\\OOP\\oop-exercise\\Array\\Array.csproj",
+        "projectUniqueName": "C:\\Users\\musem\\Documents\\github\\oop-exercise\\Array\\Array.csproj",
         "projectName": "Array",
-        "projectPath": "C:\\Users\\musem\\Documents\\University\\OOP\\oop-exercise\\Array\\Array.csproj",
+        "projectPath": "C:\\Users\\musem\\Documents\\github\\oop-exercise\\Array\\Array.csproj",
         "packagesPath": "C:\\Users\\musem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musem\\Documents\\University\\OOP\\oop-exercise\\Array\\obj\\",
+        "outputPath": "C:\\Users\\musem\\Documents\\github\\oop-exercise\\Array\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\musem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

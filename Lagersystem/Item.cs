@@ -1,7 +1,7 @@
 //Navnet på klassen
 public class Item
 {
-	string name;
+	public string name;
 	double price;
 	
 	public string GetName()

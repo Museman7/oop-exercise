@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lagersystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be89ad0c6f68e6a1956eb050c8a660d869ff94ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cb0945255f14a8ea9558f350586012c24f8f52f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lagersystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lagersystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
