@@ -1,0 +1,15 @@
+C:\Users\musem\Documents\github\oop-exercise\SpilProgExam\obj\Debug\net9.0\SpilProgExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musem\Documents\github\oop-exercise\SpilProgExam\obj\Debug\net9.0\SpilProgExam.AssemblyInfoInputs.cache
+C:\Users\musem\Documents\github\oop-exercise\SpilProgExam\obj\Debug\net9.0\SpilProgExam.AssemblyInfo.cs
+C:\Users\musem\Documents\github\oop-exercise\SpilProgExam\obj\Debug\net9.0\SpilProgExam.csproj.CoreCompileInputs.cache
+C:\Users\musem\Documents\github\oop-exercise\SpilProgExam\obj\Debug\net9.0\SpilProgExam.sourcelink.json
+C:\Users\musem\Documents\github\oop-exercise\SpilProgExam\bin\Debug\net9.0\SpilProgExam.exe
+C:\Users\musem\Documents\github\oop-exercise\SpilProgExam\bin\Debug\net9.0\SpilProgExam.deps.json
+C:\Users\musem\Documents\github\oop-exercise\SpilProgExam\bin\Debug\net9.0\SpilProgExam.runtimeconfig.json
+C:\Users\musem\Documents\github\oop-exercise\SpilProgExam\bin\Debug\net9.0\SpilProgExam.dll
+C:\Users\musem\Documents\github\oop-exercise\SpilProgExam\bin\Debug\net9.0\SpilProgExam.pdb
+C:\Users\musem\Documents\github\oop-exercise\SpilProgExam\obj\Debug\net9.0\SpilProgExam.dll
+C:\Users\musem\Documents\github\oop-exercise\SpilProgExam\obj\Debug\net9.0\refint\SpilProgExam.dll
+C:\Users\musem\Documents\github\oop-exercise\SpilProgExam\obj\Debug\net9.0\SpilProgExam.pdb
+C:\Users\musem\Documents\github\oop-exercise\SpilProgExam\obj\Debug\net9.0\SpilProgExam.genruntimeconfig.cache
+C:\Users\musem\Documents\github\oop-exercise\SpilProgExam\obj\Debug\net9.0\ref\SpilProgExam.dll

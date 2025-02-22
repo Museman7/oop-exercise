@@ -4,10 +4,13 @@ int x = 5;
 int y = 3;
 
 //Vi laver en metode/funktion som vil have to inputs, i og l
-int plus (int i, int l)
+int Addition (int i, int l)
 {
 	//Vi vil gerne have funktionen returnerer de to inputs lagt sammen
 	return i+l;
 }
 
-Console.Write(plus(x,y));
+Console.Write(Addition(x,y));
+
+
+

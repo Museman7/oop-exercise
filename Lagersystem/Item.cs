@@ -14,9 +14,9 @@ public class Item
 	}
 	
 	//Genererer et konstruktor ud fra klassen item, med alle værdierne vi har før
-	public Item(string name, double price)
-	{
-		this.name = name;
-		this.price = price;
-	}
-}
+	public Item(string nameInput, double priceInput)
+ 	{
+ 		this.name = nameInput;
+ 		this.price = priceInput;
+ 	}
+ }
